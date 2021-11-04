@@ -8,6 +8,6 @@
   MATLAB  
 
   MainCNN.py is python script to train and evaluate the 1D CNN Models  
-  .m and .mlx files are used to downsample dataset via either averaging values or PCA. These files were not made by me.  
+  .m and .mlx files are used to downsample dataset via either averaging values or PCA. 
   Data was taken from the Lucas2015 dataset  
   
